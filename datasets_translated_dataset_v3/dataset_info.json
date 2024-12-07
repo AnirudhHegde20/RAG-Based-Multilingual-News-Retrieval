@@ -1,0 +1,28 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "summary": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "topic": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "title": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "date": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "translated_text": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
