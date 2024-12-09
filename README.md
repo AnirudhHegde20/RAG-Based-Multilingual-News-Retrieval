@@ -1,4 +1,4 @@
-# **README for RAG-Based Multilingual News Retrieval System**
+# **RAG-Based Multilingual News Retrieval System**
 
 ---
 
